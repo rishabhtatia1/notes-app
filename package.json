@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rishabhtatia1/notes-app#readme",
   "dependencies": {
+    "chalk": "^3.0.0",
     "nodemon": "^2.0.7",
     "yargs": "^16.2.0"
   }
